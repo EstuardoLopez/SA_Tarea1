@@ -1,0 +1,12 @@
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\bin\Debug\ExcelCreator.exe.config
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\bin\Debug\ExcelCreator.exe
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\bin\Debug\ExcelCreator.pdb
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\bin\Debug\ExcelLibrary.dll
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.csprojAssemblyReference.cache
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.Properties.Resources.resources
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.csproj.GenerateResource.cache
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.csproj.CoreCompileInputs.cache
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.csproj.CopyComplete
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.exe
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.pdb
+C:\Users\BDGSA\Documents\Visual Studio 2017\Projects\ExcelCreator\ExcelCreator\obj\Debug\ExcelCreator.Creator.FrmMain.resources
